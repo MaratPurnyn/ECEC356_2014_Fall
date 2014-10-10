@@ -1,0 +1,4 @@
+c:\users\ecec356\Microsoft Robotics Dev Studio 4\bin\Lab2_Purnyn.Y2014.M10.dll
+c:\users\ecec356\Microsoft Robotics Dev Studio 4\bin\Lab2_Purnyn.Y2014.M10.pdb
+c:\users\ecec356\documents\msp72\GitHub\ECEC356_Lab2_2014Fall\Lab2\DSS Service1\DSS Service1\obj\Debug\Lab2_Purnyn.Y2014.M10.dll
+c:\users\ecec356\documents\msp72\GitHub\ECEC356_Lab2_2014Fall\Lab2\DSS Service1\DSS Service1\obj\Debug\Lab2_Purnyn.Y2014.M10.pdb
